@@ -1,9 +1,9 @@
-# Jackwesleyroper-blog-public
+# jackwesleyroper-blog-public
 
 ![Project Logo](Jack_Roper.png)
 
 ## Table of Contents
-- [Jackwesleyroper-blog-public](#jackwesleyroper-blog-public)
+- [jackwesleyroper-blog-public](#jackwesleyroper-blog-public)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Features](#features)
@@ -22,5 +22,5 @@ Follow these steps to install the project on your local machine:
 
 1. **Clone the repository**:
    ```sh
-   [git clone https://github.com/username/repository-name.git](https://github.com/jackwesleyroper/jackwesleyroper-blog-public.git)
+   git clone https://github.com/jackwesleyroper/jackwesleyroper-blog-public.git
    cd jackwesleyroper-blog-public
