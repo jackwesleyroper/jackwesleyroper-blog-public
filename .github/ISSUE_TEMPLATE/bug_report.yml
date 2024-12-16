@@ -1,0 +1,47 @@
+name: Bug Report
+description: Use this template to report a bug.
+title: "[BUG] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: A concise title for the bug
+      placeholder: "Bug title"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: "What are the steps to reproduce the bug?"
+      placeholder: "Step-by-step description"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: "What did you expect to happen?"
+      placeholder: "Expected behavior"
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: "What actually happened?"
+      placeholder: "Actual behavior"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: "What version of the software are you using?"
+      placeholder: "Software version"
