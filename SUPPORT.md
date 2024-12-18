@@ -8,7 +8,7 @@ Thank you for using our project!
 - Before reaching out for support, please check our [documentation](CONTRIBUTING.md) for answers to common questions and detailed information about how to use the project.
 
 ### 2. Open an Issue
-- If you can't find the answer in the documentation, feel free to open an issue on our [GitHub issues page](link-to-issues). Make sure to include:
+- If you can't find the answer in the documentation, feel free to open an issue on our [GitHub issues page](https://github.com/jackwesleyroper/jackwesleyroper-blog-public/issues). Make sure to include:
   - A clear and concise description of the problem.
   - Steps to reproduce the issue.
   - Any error messages or logs.
@@ -32,7 +32,7 @@ We appreciate contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) f
 - Answer: Check the [installation guide](README.md) in our documentation.
 
 ### Q2: What should I do if I encounter a bug?
-- Answer: Open an issue on our [GitHub issues page](link-to-issues) with the required details.
+- Answer: Open an issue on our [GitHub issues page](https://github.com/jackwesleyroper/jackwesleyroper-blog-public/issues) with the required details.
 
 For more information, visit our [website](https://jackwesleyroper.medium.com).
 

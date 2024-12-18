@@ -5,18 +5,17 @@ Thank you for considering contributing to [jackwesleyroper-blog-public]! We welc
 ## How to Contribute
 
 ### Reporting Bugs
-- Use the [issue tracker](link-to-issue-tracker) to report bugs.
+- Use the [issue tracker](https://github.com/jackwesleyroper/jackwesleyroper-blog-public/issues) to report bugs.
 - Provide a clear and detailed description of the bug.
 - Include steps to reproduce the issue, expected behavior, and any relevant logs or screenshots.
 
 ### Suggesting Enhancements
-- Use the [issue tracker](link-to-issue-tracker) to suggest new features or enhancements.
+- Use the [issue tracker](https://github.com/jackwesleyroper/jackwesleyroper-blog-public/issues) to suggest new features or enhancements.
 - Describe your idea clearly and explain why it would be beneficial.
 - Provide any additional context or mockups if possible.
 
 ### Submitting Pull Requests
 - Fork the repository and create a new branch for your feature or bug fix.
-- Follow the coding conventions and style guide outlined in our [style guide](link-to-style-guide).
 - Write clear, concise commit messages and include relevant issue numbers.
 - Ensure that your code includes tests and passes all existing tests.
 - Submit your pull request and provide a descriptive title and summary of your changes.
@@ -30,3 +29,4 @@ Thank you for considering contributing to [jackwesleyroper-blog-public]! We welc
 - Clone the repository:
   ```sh
   git clone https://github.com/jackwesleyroper/jackwesleyroper-blog-public.git
+  ```
